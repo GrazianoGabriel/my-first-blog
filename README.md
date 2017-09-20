@@ -1,3 +1,3 @@
 # my-first-blog
 
-Repositório com o desenvolvimento to meu primeiro blog usando Django
+Repositório com o desenvolvimento do meu primeiro blog usando Django
